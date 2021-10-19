@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456260451810",
+    "project_id": "appprueba-c026d",
+    "storage_bucket": "appprueba-c026d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456260451810:android:984edfda3f5cb4f9038dbb",
+        "android_client_info": {
+          "package_name": "com.hawei.appprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456260451810-t1sm1h491qhf25rde0hif3mc3j3ruj1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm05cbXaqBl7Az6edf7T-0Z834YQrDl1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456260451810-t1sm1h491qhf25rde0hif3mc3j3ruj1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
